@@ -1,7 +1,7 @@
 #include "portutility.h"
 #include <stdio.h>
 #include <printer.h>
-
+//Evan test for commit here 2014.0227.20:59
 PortUtility::PortUtility(QString str_printer , int baudrate , bool isusb)
 {
     if (baudrate != 0 && isusb!=true)
