@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/picture">
+        <file>picture/logo.jpg</file>
+        <file>picture/P_01.bmp</file>
+        <file>picture/P_02.bmp</file>
+        <file>picture/P_03.bmp</file>
+        <file>picture/P_04.bmp</file>
+        <file>picture/P_05.bmp</file>
+        <file>picture/P_06.bmp</file>
+        <file>picture/P_07.bmp</file>
+        <file>picture/P_08.bmp</file>
+        <file>picture/P_09.bmp</file>
+        <file>picture/P_10.bmp</file>
+        <file>picture/P_11.bmp</file>
+        <file>picture/P_12.bmp</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,31 @@
+@!(1b 40.1b 21 30)
+!0Print Technology Corp
+           !(1b 40.1b 21 10)
+!          Unified Senal No:12345678           
+!(1b 40.1d 42 01)
+  !BUtility Agency Receipt 
+B !(1b 40 .1b 21 08)
+!      Print Service Line(Tel):1234-5678
+      print Service Line(Fax):1234-5678
+      
+*Trade No:!505599  *Receipt No:55-0556627
+*Store Code:!Print  !*Cashier No:394
+        !(1d 21 10)
+!*Payment Coiiection Data:05/12/25
+----------------------------------------
+!(1b 40.1d 21 20)             
+! ITEM: 
+!(Default.1b 21 00)
+!First  item:        Electncity chage  2500
+!Second item:        Water chage        800
+Third  item:        Gas chage         1200
+Fourth item:        telephone chage   3000
+!(1b 40.1b 21 80.1d 21 10)
+!Total:!€!     7500
+!(1b 40.1b 61 01.1d 68 65.1d 48 03.1d 77 02.1d 6b 45)
+aheHwkE
+TOTAL.7500
+------------------------------------------
+!**Remarks:please have this receipt ready while demends**
+ *****The receipt can be preserved for 6 month only*****
+p VB 
